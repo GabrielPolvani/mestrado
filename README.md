@@ -18,6 +18,6 @@ To reproduce the adopted Python Virtual Environment, follows the steps:
 
 ## Notes
 
-Some curves plotted by running main.py and main2.py might not be as smooth as those presented in the Master's Dissertation. Fell free to increase the number of Monte Carlo Realizations by changing the variable "num_realizations" in each .py script. Have in mind that some plots takes a lot of time to finish, specially the presented surface plots.
+Some curves plotted by running main.py and main2.py might not be as smooth as those presented in the Master's Dissertation. Fell free to increase the number of Monte Carlo Realizations by changing the variable "num_realizations" in each .py script. Have in mind that some simulations takes a lot of time to finish, specially surface plots.
 
-I highly recommend to use AT LEAST num_realizations = 10000.
+It is recommended to use at least num_realizations = 10000.
